@@ -21,7 +21,7 @@ image{
 }
 
 .titre {
-    background-image: url(img/apocalypsenow.jpg);
+    background-image: url(apocalypsenow.jpg);
     display: flex;
     flex-direction: column;
     align-items: center;
