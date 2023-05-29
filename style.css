@@ -125,14 +125,14 @@ image{
     position: static;
     display: block;
     padding-right: 50px;
-    padding-left: 50px;
+    padding-left: 62px;
     float: none;
     clear: none;
     object-fit: fill;
 }
 
 .Légendes1 {
-    margin-left: -30px;
+    margin-left: -40px;
     padding-right: 130px;
     justify-content: flex-start;
 }
@@ -154,14 +154,16 @@ image{
 
 .Légendes2 {
     padding-right: 140px;
+    margin-left: 10px;
 }
 
 .Légendes3 {
     padding-right: 150px;
+    padding-left: 20px;
 }
 
 .Légendes5 {
-    margin-left: 20px;
+    margin-left: 84px;
 }
 
 .Text1 {
